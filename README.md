@@ -9,7 +9,13 @@ Pure slider written in native web technologies without external libraries.
 Assumptions
 -----------
 
-* 
+* Elements can not change its size.
+* Container (contains elements) is scalable to parent container.
+* Slider contains two arrows for move view in left and right.
+* Slider has pagination for elements.
+* After use (click in navigation element) the slider view is set to suitable position.
+* After click in any arrow, the slider view is moving by total available view in appropriate direction to next element.
+
 
 Usage
 -----
