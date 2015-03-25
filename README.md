@@ -19,7 +19,7 @@ Usage
 ```html
 <script src="lib/pure-slider.js"></script>
 
-<pure-slider>
+<div class="pure-slider">
     <ul>
         <li>1</li>
         <li>2</li>
@@ -28,7 +28,7 @@ Usage
         <li>5</li>
         <li>6</li>
     </ul>
-</pure-slider>
+</div>
 ```
 
 #### JS
