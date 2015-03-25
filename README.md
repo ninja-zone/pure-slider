@@ -31,6 +31,8 @@ Usage
 </pure-slider>
 ```
 
+#### JS
+
 ```js
 pureSlider.apply('pure-slider');
 ```
