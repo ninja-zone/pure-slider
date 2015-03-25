@@ -34,5 +34,5 @@ Usage
 #### JS
 
 ```js
-pureSlider.apply('pure-slider');
+pureSlider.apply('.pure-slider');
 ```
